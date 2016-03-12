@@ -1,0 +1,35 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"AngularJS",
+		"Better CoffeeScript",
+		"BracketHighlighter",
+		"Capybara Snippets",
+		"Clipboard Manager",
+		"DocBlockr",
+		"Emmet",
+		"FindKeyConflicts",
+		"Git",
+		"GitGutter",
+		"HTML5",
+		"Material Theme",
+		"Package Control",
+		"RSpec",
+		"rspec-snippets",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-coffeelint",
+		"SublimeLinter-contrib-sass-lint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-rubocop",
+		"Theme - Primer"
+	]
+}
