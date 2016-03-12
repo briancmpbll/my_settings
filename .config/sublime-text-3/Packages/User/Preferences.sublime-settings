@@ -7,6 +7,7 @@
 	"copy_with_empty_selection": true,
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
+	"font_face": "Hack",
 	"font_options":
 	[
 		"bold",
@@ -29,6 +30,7 @@
 	"material_theme_small_statusbar": true,
 	"material_theme_small_tab": true,
 	"material_theme_tabs_separator": true,
+	"overlay_scroll_bars": "enabled",
 	"rulers":
 	[
 		100
@@ -40,6 +42,5 @@
 	"theme_primer_tabs_font_large": true,
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": "false",
-	"font_face": "Hack"
+	"word_wrap": "false"
 }

@@ -32,6 +32,7 @@
 		"SublimeLinter-contrib-sass-lint",
 		"SublimeLinter-jshint",
 		"SublimeLinter-rubocop",
-		"Theme - Primer"
+		"Theme - Primer",
+		"WordHighlight"
 	]
 }
