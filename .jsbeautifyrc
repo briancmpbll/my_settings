@@ -1,6 +1,7 @@
 {
   "html": {
-    "indent_size": 2
+    "indent_size": 2,
+    "wrap_line_length": 70
   },
   "css": {
     "indent_size": 2
